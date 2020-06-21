@@ -1,0 +1,1 @@
+adding to files in repository of local created using smart git
